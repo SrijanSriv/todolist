@@ -4,7 +4,7 @@ import Navbar from './Navbar';
 const Instructions = () => {
 
     const Source = () => {
-        window.open ("https://www.youtube.com/watch?v=dQw4w9WgXcQ","_blank");
+        window.open ("https://github.com/SrijanSriv/todolist","_blank");
     };
 
     return(
